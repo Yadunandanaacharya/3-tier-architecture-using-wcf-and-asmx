@@ -1,0 +1,22 @@
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\WCFWithBLL\obj\Debug\WCFWithBLL.csprojAssemblyReference.cache
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\WCFWithBLL\obj\Debug\WCFWithBLL.csproj.CoreCompileInputs.cache
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\WCFWithBLL\bin\WCFWithBLL.dll.config
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\WCFWithBLL\bin\WCFWithBLL.dll
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\WCFWithBLL\bin\WCFWithBLL.pdb
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\WCFWithBLL\bin\BALLayer.dll
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\WCFWithBLL\bin\BALLayer.pdb
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\WCFWithBLL\obj\Debug\WCFWithBLL.csproj.CopyComplete
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\WCFWithBLL\obj\Debug\WCFWithBLL.dll
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\WCFWithBLL\obj\Debug\WCFWithBLL.pdb
+D:\Github_clone_repo\yDSAPersonalMy_Codes_DontDelete\Full_stack_asp_net_oracle_ado_html_css_jQuer\3 Tier Examples Youtube\3 Tier Architecture Examples\SwiftLearn\WCFWithBLL\bin\WCFWithBLL.dll.config
+D:\Github_clone_repo\yDSAPersonalMy_Codes_DontDelete\Full_stack_asp_net_oracle_ado_html_css_jQuer\3 Tier Examples Youtube\3 Tier Architecture Examples\SwiftLearn\WCFWithBLL\bin\WCFWithBLL.dll
+D:\Github_clone_repo\yDSAPersonalMy_Codes_DontDelete\Full_stack_asp_net_oracle_ado_html_css_jQuer\3 Tier Examples Youtube\3 Tier Architecture Examples\SwiftLearn\WCFWithBLL\bin\WCFWithBLL.pdb
+D:\Github_clone_repo\yDSAPersonalMy_Codes_DontDelete\Full_stack_asp_net_oracle_ado_html_css_jQuer\3 Tier Examples Youtube\3 Tier Architecture Examples\SwiftLearn\WCFWithBLL\obj\Debug\WCFWithBLL.csproj.CoreCompileInputs.cache
+D:\Github_clone_repo\yDSAPersonalMy_Codes_DontDelete\Full_stack_asp_net_oracle_ado_html_css_jQuer\3 Tier Examples Youtube\3 Tier Architecture Examples\SwiftLearn\WCFWithBLL\obj\Debug\WCFWithBLL.dll
+D:\Github_clone_repo\yDSAPersonalMy_Codes_DontDelete\Full_stack_asp_net_oracle_ado_html_css_jQuer\3 Tier Examples Youtube\3 Tier Architecture Examples\SwiftLearn\WCFWithBLL\obj\Debug\WCFWithBLL.pdb
+D:\3tier\1\WCFWithBLL\bin\WCFWithBLL.dll.config
+D:\3tier\1\WCFWithBLL\bin\WCFWithBLL.dll
+D:\3tier\1\WCFWithBLL\bin\WCFWithBLL.pdb
+D:\3tier\1\WCFWithBLL\obj\Debug\WCFWithBLL.csproj.CoreCompileInputs.cache
+D:\3tier\1\WCFWithBLL\obj\Debug\WCFWithBLL.dll
+D:\3tier\1\WCFWithBLL\obj\Debug\WCFWithBLL.pdb

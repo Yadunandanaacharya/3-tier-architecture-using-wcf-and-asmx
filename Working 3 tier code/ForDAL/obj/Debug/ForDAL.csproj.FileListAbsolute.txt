@@ -1,0 +1,34 @@
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\ForDAL\obj\Debug\ForDAL.csprojAssemblyReference.cache
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\ForDAL\obj\Debug\ForDAL.csproj.CoreCompileInputs.cache
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\ForDAL\bin\Debug\ForDAL.dll
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\ForDAL\bin\Debug\ForDAL.pdb
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\ForDAL\bin\Debug\BALLayer.dll
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\ForDAL\bin\Debug\WCFWithBLL.dll
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\ForDAL\bin\Debug\BALLayer.pdb
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\ForDAL\bin\Debug\WCFWithBLL.pdb
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\ForDAL\bin\Debug\WCFWithBLL.dll.config
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\ForDAL\obj\Debug\ForDAL.csproj.CopyComplete
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\ForDAL\obj\Debug\ForDAL.dll
+D:\Github_clone_repo\Full_stack_asp_net_oracle_ado_html_css_jQuer\Jquery_ajax_asp.net\3 Tier Architecture Examples\SwiftLearn\ForDAL\obj\Debug\ForDAL.pdb
+D:\Github_clone_repo\yDSAPersonalMy_Codes_DontDelete\Full_stack_asp_net_oracle_ado_html_css_jQuer\3 Tier Examples Youtube\3 Tier Architecture Examples\SwiftLearn\ForDAL\bin\Debug\ForDAL.dll.config
+D:\Github_clone_repo\yDSAPersonalMy_Codes_DontDelete\Full_stack_asp_net_oracle_ado_html_css_jQuer\3 Tier Examples Youtube\3 Tier Architecture Examples\SwiftLearn\ForDAL\bin\Debug\ForDAL.dll
+D:\Github_clone_repo\yDSAPersonalMy_Codes_DontDelete\Full_stack_asp_net_oracle_ado_html_css_jQuer\3 Tier Examples Youtube\3 Tier Architecture Examples\SwiftLearn\ForDAL\bin\Debug\ForDAL.pdb
+D:\Github_clone_repo\yDSAPersonalMy_Codes_DontDelete\Full_stack_asp_net_oracle_ado_html_css_jQuer\3 Tier Examples Youtube\3 Tier Architecture Examples\SwiftLearn\ForDAL\bin\Debug\WCFWithBLL.dll
+D:\Github_clone_repo\yDSAPersonalMy_Codes_DontDelete\Full_stack_asp_net_oracle_ado_html_css_jQuer\3 Tier Examples Youtube\3 Tier Architecture Examples\SwiftLearn\ForDAL\bin\Debug\WCFWithBLL.pdb
+D:\Github_clone_repo\yDSAPersonalMy_Codes_DontDelete\Full_stack_asp_net_oracle_ado_html_css_jQuer\3 Tier Examples Youtube\3 Tier Architecture Examples\SwiftLearn\ForDAL\bin\Debug\WCFWithBLL.dll.config
+D:\Github_clone_repo\yDSAPersonalMy_Codes_DontDelete\Full_stack_asp_net_oracle_ado_html_css_jQuer\3 Tier Examples Youtube\3 Tier Architecture Examples\SwiftLearn\ForDAL\obj\Debug\ForDAL.csprojAssemblyReference.cache
+D:\Github_clone_repo\yDSAPersonalMy_Codes_DontDelete\Full_stack_asp_net_oracle_ado_html_css_jQuer\3 Tier Examples Youtube\3 Tier Architecture Examples\SwiftLearn\ForDAL\obj\Debug\ForDAL.csproj.CoreCompileInputs.cache
+D:\Github_clone_repo\yDSAPersonalMy_Codes_DontDelete\Full_stack_asp_net_oracle_ado_html_css_jQuer\3 Tier Examples Youtube\3 Tier Architecture Examples\SwiftLearn\ForDAL\obj\Debug\ForDAL.csproj.CopyComplete
+D:\Github_clone_repo\yDSAPersonalMy_Codes_DontDelete\Full_stack_asp_net_oracle_ado_html_css_jQuer\3 Tier Examples Youtube\3 Tier Architecture Examples\SwiftLearn\ForDAL\obj\Debug\ForDAL.dll
+D:\Github_clone_repo\yDSAPersonalMy_Codes_DontDelete\Full_stack_asp_net_oracle_ado_html_css_jQuer\3 Tier Examples Youtube\3 Tier Architecture Examples\SwiftLearn\ForDAL\obj\Debug\ForDAL.pdb
+D:\3tier\1\ForDAL\bin\Debug\ForDAL.dll.config
+D:\3tier\1\ForDAL\bin\Debug\ForDAL.dll
+D:\3tier\1\ForDAL\bin\Debug\ForDAL.pdb
+D:\3tier\1\ForDAL\bin\Debug\WCFWithBLL.dll
+D:\3tier\1\ForDAL\bin\Debug\WCFWithBLL.pdb
+D:\3tier\1\ForDAL\bin\Debug\WCFWithBLL.dll.config
+D:\3tier\1\ForDAL\obj\Debug\ForDAL.csprojAssemblyReference.cache
+D:\3tier\1\ForDAL\obj\Debug\ForDAL.csproj.CoreCompileInputs.cache
+D:\3tier\1\ForDAL\obj\Debug\ForDAL.csproj.CopyComplete
+D:\3tier\1\ForDAL\obj\Debug\ForDAL.dll
+D:\3tier\1\ForDAL\obj\Debug\ForDAL.pdb
